@@ -26,7 +26,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María José**: 
 
--**María Adrian**a:
+-**María Adriana**:
 
 -**Javier Ángel**:
 
@@ -79,4 +79,7 @@ Flujo de trabajo visto en clase
 
 [Documentación oficial de Git] (https://git-scm.com/docs/git/es)
  
+
 [Cheatsheet de comandos Git] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
+
+
