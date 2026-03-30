@@ -48,7 +48,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Verónica**:
 
--**José Manuel**:
+-**José Manuel**: Hola Amigos!
 
 -**Pedro Leonardo**:
 
