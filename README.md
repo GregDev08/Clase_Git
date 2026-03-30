@@ -50,7 +50,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**José Manuel**: Hola Amigos!
 
--**Pedro Leonardo**:
+-**Leo**: Suitability
 
 -**David**: Yamete
 
