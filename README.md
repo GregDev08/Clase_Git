@@ -24,7 +24,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 <!-- Añade tu línea aquí debajo -->
 
--**María José**: 
+-**Mariajosé**: "Hola, mundo" 
 
 -**Adriana**: ¡Feliz de estar por aquí!
 
