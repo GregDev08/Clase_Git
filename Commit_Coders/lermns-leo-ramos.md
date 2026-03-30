@@ -37,4 +37,4 @@ Tengo entendido que sigue una serie de patrones... pero, *¿qué hay por debajo 
 
 ---
 
-*Bootcamp IA · 2025*[D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[A[A[F[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[C[C[C[[C[C[C[C[C[C[C[B[B[B[B[B[B[B[B
+*Bootcamp IA · 2025*
