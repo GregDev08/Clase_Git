@@ -32,7 +32,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Gianmario**:
 
--**María Elena**:
+-**María Elena**: por fin
 
 -**Helena DM**:
 
