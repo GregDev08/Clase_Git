@@ -60,7 +60,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Elizabeth**:
 
--**Laura SR**:
+-**Laura SR**: "Hoy puede ser un gran dia!"
 
 -**Isabella**:
 
