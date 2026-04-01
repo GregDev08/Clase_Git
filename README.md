@@ -76,7 +76,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Efrain Peña:**
 
--**José Melo**:
+-**José Melo**:<h1>Hello World<h1>
 
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
